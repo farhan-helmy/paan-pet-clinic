@@ -1,4 +1,4 @@
-package farhan.springframework.paanpetclinic;
+package paanpetclinic;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
