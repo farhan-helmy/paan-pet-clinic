@@ -3,7 +3,7 @@
     <parent>
         <artifactId>paan-pet-clinic</artifactId>
         <groupId>farhan.springframework</groupId>
-        <version>1.0.3-SNAPSHOT</version>
+        <version>0.0.1</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
